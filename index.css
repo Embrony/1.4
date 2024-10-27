@@ -27,7 +27,6 @@ background-color: transparent;
 border: none;
 padding: 0;
 }
-/* ----------HEADER---------- */
 a {
   text-decoration: none;
   color: inherit;  
@@ -64,8 +63,6 @@ a {
   transition: 0.2s;
 }
 
-/* ----------MAIN---------- */
-
 .nav-list__item {
   font-weight: 500;
   font-size: 16px;
@@ -98,9 +95,6 @@ a {
 .nav-list__item:last-of-type {
   margin-bottom: 268px;
 }
-
-/* ----------FOOTER---------- */
-
 .contacts-button {
   display: flex;
   height: 40px;
